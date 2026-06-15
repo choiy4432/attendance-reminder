@@ -15,9 +15,9 @@ Windows 토스트 알림을 띄워주는 PowerShell 스크립트입니다.
 ## 설치
 
 ### 1) (선택) BurntToast 모듈 설치
-\```powershell
+```powershell
 Install-Module -Name BurntToast -Scope CurrentUser -Force
-\```
+```
 
 ### 2) 스크립트 다운로드 후 원하는 경로에 저장
 예: `C:\Users\<사용자명>\scripts\attendance_reminder.ps1`
